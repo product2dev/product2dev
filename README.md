@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I'm currently working in Product Management at PayPal focused Web SDKs
+- 🌱 I’m focused on learning all things agentic
+- 📫 How to reach me: @product2dev on X
+      
 <!--
 **product2dev/product2dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->    

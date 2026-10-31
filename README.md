@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I'm currently working in Product Management at PayPal focused on Web SDKs
-- 🌱 I’m focused on learning all things agentic
+- 🔭 Product at PayPal building on Web SDKs
+- 🌱 Learning all things agentic
 - 📫 How to reach me: @product2dev on X
       
 <!--
